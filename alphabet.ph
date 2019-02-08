@@ -1,6 +1,6 @@
 
-ch=raw_input()
-if((ch>='a' and ch<='z') or (ch>='A' and ch<='Z')):
+bc=raw_input()
+if((bc>='a' and bc<='z') or (bc>='A' and bc<='Z')):
     print("Alphabet")
 else:    
     print("No")
