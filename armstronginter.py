@@ -1,7 +1,7 @@
 inp = raw_input().split()
 sr = int(inp[0])
 er = int(inp[1])
-for N in range (sr,er):
+for N in range (sr+1,er):
     sum=0
     order=len(str(N))
     temp=N
