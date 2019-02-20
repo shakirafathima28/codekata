@@ -1,3 +1,4 @@
+a = int(input())
 num = []
 num=input().split()
 num.sort()
